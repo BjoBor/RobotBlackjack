@@ -1,0 +1,259 @@
+item {
+  id: 1
+  name: '2 heart'
+}
+
+item {
+  id: 2
+  name: '3 heart'
+}
+
+item {
+  id: 3
+  name: '4 heart'
+}
+
+item {
+  id: 4
+  name: '5 heart'
+}
+
+item {
+  id: 5
+  name: '6 heart'
+}
+
+item {
+  id: 6
+  name: '7 heart'
+}
+
+item {
+  id: 7
+  name: '8 heart'
+}
+
+item {
+  id: 8
+  name: '9 heart'
+}
+
+item {
+  id: 9
+  name: '10 heart'
+}
+
+item {
+  id: 10
+  name: 'jack heart'
+}
+
+item {
+  id: 11
+  name: 'queen heart'
+}
+
+item {
+  id: 12
+  name: 'king heart'
+}
+
+item {
+  id: 13
+  name: 'ace heart'
+}
+
+item {
+  id: 14
+  name: '2 spade'
+}
+
+item {
+  id: 15
+  name: '3 spade'
+}
+
+item {
+  id: 16
+  name: '4 spade'
+}
+
+item {
+  id: 17
+  name: '5 spade'
+}
+
+item {
+  id: 18
+  name: '6 spade'
+}
+
+item {
+  id: 19
+  name: '7 spade'
+}
+
+item {
+  id: 20
+  name: '8 spade'
+}
+
+item {
+  id: 21
+  name: '9 spade'
+}
+
+item {
+  id: 22
+  name: '10 spade'
+}
+
+item {
+  id: 23
+  name: 'jack spade'
+}
+
+item {
+  id: 24
+  name: 'queen spade'
+}
+
+item {
+  id: 25
+  name: 'king spade'
+}
+
+item {
+  id: 26
+  name: 'ace spade'
+}
+
+item {
+  id: 27
+  name: '2 diamond'
+}
+
+item {
+  id: 28
+  name: '3 diamond'
+}
+
+item {
+  id: 29
+  name: '4 diamond'
+}
+
+item {
+  id: 30
+  name: '5 diamond'
+}
+
+item {
+  id: 31
+  name: '6 diamond'
+}
+
+item {
+  id: 32
+  name: '7 diamond'
+}
+
+item {
+  id: 33
+  name: '8 diamond'
+}
+
+item {
+  id: 34
+  name: '9 diamond'
+}
+
+item {
+  id: 35
+  name: '10 diamond'
+}
+
+item {
+  id: 36
+  name: 'jack diamond'
+}
+
+item {
+  id: 37
+  name: 'queen diamond'
+}
+
+item {
+  id: 38
+  name: 'king diamond'
+}
+
+item {
+  id: 39
+  name: 'ace diamond'
+}
+
+item {
+  id: 40
+  name: '2 club'
+}
+
+item {
+  id: 41
+  name: '3 club'
+}
+
+item {
+  id: 42
+  name: '4 club'
+}
+
+item {
+  id: 43
+  name: '5 club'
+}
+
+item {
+  id: 44
+  name: '6 club'
+}
+
+item {
+  id: 45
+  name: '7 club'
+}
+
+item {
+  id: 46
+  name: '8 club'
+}
+
+item {
+  id: 47
+  name: '9 club'
+}
+
+item {
+  id: 48
+  name: '10 club'
+}
+
+item {
+  id: 49
+  name: 'jack club'
+}
+
+item {
+  id: 50
+  name: 'queen club'
+}
+
+item {
+  id: 51
+  name: 'king club'
+}
+
+item {
+  id: 52
+  name: 'ace club'
+}
